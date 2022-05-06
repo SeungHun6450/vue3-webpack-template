@@ -38,7 +38,7 @@ module.exports = {
         use: [
           // 순서 중요!
           'vue-style-loader',
-          'style-loader',
+          // 'style-loader',
           'css-loader',
           'postcss-loader',
           'sass-loader'
